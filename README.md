@@ -16,4 +16,4 @@
                                                                  
      
      
-![Visitor Count](https://profile-counter.glitch.me/{JasurSadiev}/count.svg)
+<a href="![Visitor Count](https://profile-counter.glitch.me/{JasurSadiev}/count.svg)"></a>
