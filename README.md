@@ -10,7 +10,7 @@
                   email: jasursadiev2002@gmail.com 
                   WhatsApp: +992989166742
               
-                                                                 Visitor Count:                    
+                                                                   <h1 align="center">Visitor Count:</h1>                  
                                                                  
                                                                  
                                                                  
