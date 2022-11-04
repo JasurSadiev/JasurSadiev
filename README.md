@@ -9,7 +9,6 @@
 - 📫 How to reach me: 
                   email: jasursadiev2002@gmail.com 
                   WhatsApp: +992989166742
-
-                                                            Visitor count
-                              
-                              ![Visitor Count](https://profile-counter.glitch.me/{JasurSadiev}/count.svg)
+              
+ Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/{JasurSadiev}/count.svg)
