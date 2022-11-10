@@ -54,3 +54,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasursadiev&show_icons=true&locale=en" alt="jasursadiev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasursadiev&" alt="jasursadiev" /></p>
+
+![](https://leetcard.jacoblin.cool/jasursadiev2002?theme=wtf&font=Space%20Mono&ext=activity)
+
