@@ -55,5 +55,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasursadiev&" alt="jasursadiev" /></p>
 
+<h3>Leet Code Activity Statistics: </h3>
+
 ![](https://leetcard.jacoblin.cool/jasursadiev2002?theme=wtf&font=Space%20Mono&ext=activity)
 
